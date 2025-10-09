@@ -1,0 +1,126 @@
+baseURL: "https://kylerose.me/"
+title: Kyle Rose
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# ✅ New pagination key (replaces deprecated `paginate`)
+pagination:
+  pagerSize: 10
+
+# ❌ Remove UA tracking to silence warning (add GA4 later)
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Kyle Rose
+  description: "Notes, projects, and photos—quietly opinionated from my corner of the internet."
+  keywords: [Blog, Portfolio, Portland, Oregon, PNW, Security, Devops]
+  author: Me
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  
+
+  assets:
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: Kyle Rose
+    subtitle: "Notes, projects, and photos—quietly opinionated from my corner of the internet."
+    imageUrl: "profile_pic.jpeg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: Bluesky
+      url: "https://bsky.app/profile/mkylerose.bsky.social"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/mkylerose/"
+    - name: github
+      url: "https://github.com/mkylerose"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /Tags/
+      weight: 20
+    - identifier: example
+      name: Photography
+      url: https://photography.kylerose.me
+      weight: 30
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
