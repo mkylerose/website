@@ -4,7 +4,7 @@ slug: "the-internet-was-human"
 date: 2025-10-10
 draft: false
 author: Kyle Rose
-description: "Remember when the internet felt weird, personal, and human? This is about what we lost — and how to get it back.
+description: "Remember when the internet felt weird, personal, and human? This is about what we lost — and how to get it back."
 categories: ["Reflections", "Culture", "Essays", "Internet"]
 ---
 
