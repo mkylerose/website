@@ -116,8 +116,8 @@ menu:
       name: tags
       url: /Tags/
       weight: 20
-    - identifier: example
-      name: Photography
+    - identifier: photography
+      name: photography
       url: https://photography.kylerose.me
       weight: 30
 
