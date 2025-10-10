@@ -1,4 +1,5 @@
 baseURL: "https://kylerose.me/"
+canonifyURLs: true        # helps ensure absolute URLs
 title: Kyle Rose
 theme: PaperMod
 
