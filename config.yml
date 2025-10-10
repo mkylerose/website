@@ -112,14 +112,10 @@ menu:
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /Tags/
-      weight: 20
     - identifier: photography
       name: photography
       url: https://photography.kylerose.me
-      weight: 30
+      weight: 20
 
 pygmentsUseClasses: true
 markup:
