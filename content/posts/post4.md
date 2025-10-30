@@ -2,17 +2,19 @@
 title: "Balance Isn’t What We Think It Is"
 date: 2025-10-21T13:00:00-07:00
 description: "Trying to balance family, work, school, and health isn’t a system problem—it’s a human one. Balance isn’t about control; it’s about awareness and grace."
+seotitle: "Balance Isn't What We Think It is"
 author: "Kyle Rose"
+robots: "index, follow"
 draft: false
 categories: ["Reflections", "Life"]
 tags: ["balance", "family", "work", "school", "health", "self-reflection"]
 slug: "balance-isnt-what-we-think-it-is"
 ---
+**Balance isn’t a system problem.**  
+**It’s a human one.**  
 
-# Balance Isn’t What We Think It Is
-
-Balance isn’t a system problem.  
-It’s a human one.  
+This'll be a ranty one. This is something I've been trying to process.
+You've been warned.
 
 I’ve been treating balance as if it were mechanical, something I could fix with the right tools. I’ve optimized my calendar, tried different apps, built routines, tracked habits, as if I were one trick away from calm. But the real challenge is that we’re human, and our priorities change.  
 
@@ -43,3 +45,7 @@ I still have no idea what I’m doing. Some days I nail it; other days I stumble
 Balance isn’t a destination we reach. It’s something we keep returning to, a daily act of adjustment, of showing up where we’re needed most. The goal was never to do it all, but to do what matters and remind myself that it’s enough.  
 
 And on the days when something falls through the cracks, I’m learning to let it.  
+
+Thanks for reading
+
+_—Kyle_

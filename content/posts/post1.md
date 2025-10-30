@@ -20,6 +20,6 @@ Built with **Hugo** + **PaperMod**, deployed via **GitHub Actions** to **GitHub 
 - RSS is available at `/index.xml`.
 - Source and issues live on GitHub
 
-## Thanks for reading
+Thanks for reading
 
 _—Kyle_
