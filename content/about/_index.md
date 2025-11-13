@@ -22,7 +22,7 @@ I started at community college, planning to transfer into a CS program. Then I g
 
 **Now**
 
-Today I work in systems engineering and administration within the public sector. Building, breaking, fixing, learning. I still chase that same curiosity that kept me reinstalling Windows 95. The tools are more sophisticated now, but the feeling hasn't changed. Figuring out how things work, and how to make them better.
+After working for over a decade in private industry, from small startups to large corporations, I discovered my true calling in public service. Today I work in systems engineering within the public sector, doing work that matters for my community. Building, breaking, fixing, learning. I still chase that same curiosity that kept me reinstalling Windows 95. The tools are more sophisticated now, but the feeling hasn't changed. Figuring out how things work, and how to make them better.
 
 My curiosity expanded along the way. Cloud infrastructure, cybersecurity, automation. The invisible plumbing that makes the modern world run. I build things. I test systems. I look for cracks so I can understand them, and maybe help others see them too.
 
